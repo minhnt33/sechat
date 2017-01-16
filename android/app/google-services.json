@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640886915150",
+    "firebase_url": "https://sechat-f7e46.firebaseio.com",
+    "project_id": "sechat-f7e46",
+    "storage_bucket": "sechat-f7e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640886915150:android:3378b5d00e9444b8",
+        "android_client_info": {
+          "package_name": "com.ict58.sechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640886915150-6ipeb835417jp12qldik6g2qugv8m97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywOjFzqt_pp0-H1et6-_EZTFbtVWpRTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

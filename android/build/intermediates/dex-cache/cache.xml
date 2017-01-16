@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.0_890718c4ce195b822da8399a0e42d35793512de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_1510fec3e77bba983ccafdb431cd51abbf9ff0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0bc229dfc9113c4ede0f682ce993543746596972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_7f9cdbbfcada447e10690bd6bd39a9824000fa8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.0_f2a78f39c0f1b7bd4bc62a7a0d1b7b036a9ebc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_35a54e54e32133a5cbc56f0f6901b3690ccbfd8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.0_53877707274a72e01e962b0daf70673262c6ab0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_0e0c4e139ccff50a9eb2ddc75d17e47005b0db50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_4cde915754302e345a59bd4d551f5b3b35f35d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_5c758766661ab448031ba27c6f98bc54707254fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_99c4651efd731443f833e7151d9ac93923eaf671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_4bbad2b3e6490758b2bb99ba7671a5fc8f13e6f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.4.0_8ccca433e4e9f2d24ac96f0552dc065987aa5b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_c1d9fce2e4f7542ed1c4e2fdc20f751c650286ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.0_3e3f085f9d2a141df5c060a14b3aa03c014d80fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_12fd83d700a59c45a132eceb4430b314e207e87e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.0_4cbce3a3cb00bfab7cb0861a94fafc4feee0a715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.0_5e2fd2771045c274a11f9b72f3bee15bc6a3041d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_a1cad5f7dbd25c7e23c8ef1654f111f826711577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.0_d7f8424adb86503d1a2f8d5e78a4374a0b8631db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_aa21311da8f15e002db9c2f460bc48d5d7b4e86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_fe0d95efb3a421fd2dc522722b77e940eb843af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.0_bcd67f306aa3e8fa1d97b5864275f63423765143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_a221fb97d972a22fa22ecd844dc567911038cf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.0_23f479dd12a5bf32fc7acdf40f1af8f55251b832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3449f2d7cf6b7b50359845fc66027f89f90531b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.0_c3829749d0d8c7df50d7e21b217eeaeeb4fb08cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.0_4ffa81e6a0154b8ccd5e359dca1ac05b235bb557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.0_559ffbdb8a38dfde6ab6a8a0d4d38a7a6eac5749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.0_32bab0ac5445ef761d31379d3f6b16adebf0e1ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.0_80ce7cf94e74e3333090b3a3b28cbf07309acadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.0_d9e28436107b549fed27b37261600fbbc88d9a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_dab20edb5c8de495593389257bacd06a5e5edacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d850cc1494ff83ffb32bcdb28c7d1e2150cfb0fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.0_cae6aea95ca9ab08967e4f93fe158423a6b85272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_313b33fda9e1237b454e3d3ba6757f76dcedf5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.0_8e0fb4226337ac2a5f910132fc3044eb524a19f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/glide-3.6.1_f4f595ab2bd767c343d1e96a3a4f67dd54eae0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c150a7087b0a604b4b7b4e0834c621e38a03dc33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_07e88d11075df50ba211cf77e9c504c85ad27fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.0_5ff535b958737c8c378c63c852d851404253aec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/tuanminh/Projects/Android/friendlychat/android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_447f728cfc66987157a2bd4c645dc7339add46b1.jar" />
+    </item>
+
+</items>
